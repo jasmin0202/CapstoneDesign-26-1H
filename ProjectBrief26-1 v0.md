@@ -39,7 +39,7 @@
 |35|[EWIN](#team-35)| 자기주도 학습을 하는 대학생을 위한, 강의자료를 분석하고 개인 맞춤형 질문을 생성하여 깊이 있는 학습을 유도하는 AI 튜터링 서비스
 |36|[이게되네](#team-36)| 무발화 자폐 아동을 위한 AI 기반 개인맞춤형 의사소통 플랫폼<br>— 단어 확장, 이미지 생성, 음성 출력, 데이터 분석을 통해 문장 생성 및 표현을 지원하는 시스템
 |37|[Optimus Prime](#team-37)| VM별 AI 워크로드 에너지 사용량 예측모델 설계
-|38|[ModalArc](#team-38)| MARS: Modality-Aware Reconfigurable Scheduler for Multi-Modal Inference on Multi-Core NPUs
+|38|[ModalArc](#team-38)| MARS: Modality-Aware Reconfiguration Scheduler for On-device Multi-Modal Inference on Multi-Core NPUs
 |39|[NexStep](#team-39)| 음소 단위 분석을 통한 아동 맞춤형 발음 교정 놀이 앱
 |40|[MIND](#team-40)| Development of a Multimodal Artificial Intelligence Model for Triage Classification and Worklist Prioritization of Foot and Ankle X-ray Images
 |41|[Flippers](#team-41)| OpenAI 및 Google Map API 기반 사용자 맞춤형 AI 여행 플래너 솔루션
@@ -603,7 +603,7 @@ ESG 리포팅 자동화, 맞춤형 행동 가이드, 경량화 플랫폼 |
 [Return TOP](#list-of-teamsprojects)
  
 # Team-38
-| (1) 과제명 |  MARS: Modality-Aware Reconfigurable Scheduler for Multi-Modal Inference on Multi-Core NPUs |
+| (1) 과제명 |  MARS: Modality-Aware Reconfiguration Scheduler for On-device Multi-Modal Inference on Multi-Core NPUs |
 |:---  |---  |
 | (2) 팀 번호/이름 | 38-ModalArc |
 | (3) 구성원 | 하정연(2376305): 리더,*역할,...* <br> 이지현(2276246): 팀원,*역할,....* <br> 최윤지(2317034): 팀원,*역할,....* |
